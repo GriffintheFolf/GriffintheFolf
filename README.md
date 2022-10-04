@@ -1,6 +1,6 @@
 # Why, hello there.
 
-I'm Thomas, but you can call me Griffin. Can you believe it, another folf?
+I'm Griffin. Can you believe it, another folf?
 But in green!
 
 Half the projects I make don't end up finished, but we all have our secrets
@@ -12,6 +12,10 @@ Projects I've contributed to:
 
 * [HaikuPorts](https://github.com/haikuports/haikuports)
 * the [Open Computing Kit](https://github.com/open-computing-kit)
+
+## Websites
+You can check out my main website at [folf.gay](https://folf.gay),
+or check out my home page for vintage computers, [snootsearch](http://snootsear.ch)!
 
 ## Stats
 
