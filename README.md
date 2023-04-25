@@ -1,10 +1,9 @@
 # Why, hello there.
 
-I'm Griffin. Can you believe it, another folf?
-But in green!
+I'm Griffin. I am an 18-year-old high school student with an interest in
+systems administration and networking.
 
-Half the projects I make don't end up finished, but we all have our secrets
-in that regard...
+You can find out more at my site, [folf.gay](https://folf.gay).
 
 ## Projects
 
@@ -12,10 +11,6 @@ Projects I've contributed to:
 
 * [HaikuPorts](https://github.com/haikuports/haikuports)
 * the [Open Computing Kit](https://github.com/open-computing-kit)
-
-## Websites
-You can check out my main website at [folf.gay](https://folf.gay),
-or check out my home page for vintage computers, [snootsearch](http://snootsear.ch)!
 
 ## Stats
 
