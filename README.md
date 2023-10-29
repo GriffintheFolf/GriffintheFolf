@@ -1,7 +1,7 @@
 # Why, hello there.
 
-I'm Griffin. I am an 18-year-old high school student with an interest in
-systems administration and networking.
+My name is Griffin. I am an 18-year-old student with an interest in
+systems administration and networking!
 
 You can find out more at my site, [folf.gay](https://folf.gay).
 
